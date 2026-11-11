@@ -1,0 +1,3 @@
+experimento,estado_datos,periodo,grupo,clientes_asignados,compradores,pedidos_validos,ingresos_netos,coste_producto,otros_costes_variables_sin_campana,coste_incremental_campana,moneda,horizonte_dias,devoluciones_maduras,fuente_pedidos,incidencias,decision
+DEMO_01,ejemplo_ficticio,ventana_completa,tratamiento,4000,360,360,36000,14400,6000,2500,UM_FICTICIA,45,si_supuesto,sistema_ficticio,ninguna_supuesta,Estimar incertidumbre financiera antes de escalar
+DEMO_01,ejemplo_ficticio,ventana_completa,control,1000,70,70,7000,2800,1100,0,UM_FICTICIA,45,si_supuesto,sistema_ficticio,ninguna_supuesta,Normalizar por tamaño; no comparar totales sin ajuste
